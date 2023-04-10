@@ -1,6 +1,6 @@
 
-# Programmering av mobila applikationer 
-# Rapport "Hello World"
+Programmering av mobila applikationer 
+Rapport "Hello World"
 
 
 ## Följande grundsyn gäller dugga-svar:
