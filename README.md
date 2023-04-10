@@ -2,7 +2,7 @@
 Programmering av mobila applikationer 
 Rapport "Hello World"
 
-![img_2.png](img_2.png)
+![img.png](img.png)
 
 ```
 <resources>
