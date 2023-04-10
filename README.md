@@ -1,6 +1,5 @@
 
 Programmering av mobila applikationer 
-
 Rapport "Hello World"
 
 ![img.png](img.png)
